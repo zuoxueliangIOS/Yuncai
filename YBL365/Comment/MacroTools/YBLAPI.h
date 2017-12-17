@@ -19,7 +19,7 @@ static NSString * const BaseURL_Login_Release       = @"https://water.memoryshee
 static NSString * const BASE_URL_Login              = @"https://water.memorysheep.com/";
 */
 #warning 域名 1
-//#define js_base_url @"https://water.iamyuhang.com"
+#define js_base_url @"https://water.iamyuhang.com"
 #warning 域名 2
 //#define js_base_url @"https://water.memorysheep.com"
 
